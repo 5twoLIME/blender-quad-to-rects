@@ -1,4 +1,4 @@
-# Quad to Rects - Blender Add-on
+# 🎨 Quad to Rects - Blender Add-on
 
 This add-on can rectangularize UV islands automatically ✨
 
@@ -9,14 +9,16 @@ This add-on can rectangularize UV islands automatically ✨
 4. Enable the add-on by checking the box ✅
 
 ## 🚀 Usage
-1. In Edit Mode, select a quad face **that is closest to a rectangle shape** for best results
-2. Open UV Editor sidebar
-3. Find "Quad to Rects" panel
-4. Click "Quad to Rects" button
+1. In UV Edit, select all faces and unwrap angle-based
+2. On the UV map, select a quad face **that is closest to a rectangle shape** for best results
+3. Open UV Editor sidebar
+4. Find "Quad to Rects" panel
+5. Click "Quad to Rects" button
 
 ## ⚠️ Important Notes
 - Works best with hair pieces that are quads
 - Select the quad face that is closest to a rectangle shape to achieve the best result
+- Select quad face on UV map, not on the meshes
 
 ## 💡 Credits
 Created by @5twoLIME
