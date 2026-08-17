@@ -1,6 +1,7 @@
 # 🎨 Quad to Rects - Blender Add-on
 
 This add-on can rectangularize UV islands automatically ✨
+https://github.com/user-attachments/assets/20757e93-db9e-406b-8f4b-ca0d21b4b1be
 
 ## 📦 Installation
 1. Download `addon-Quad_To_Rects.py`
